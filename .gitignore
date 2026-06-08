@@ -11,3 +11,4 @@ coverage/
 *.local
 .idea/
 *.log
+.vercel
