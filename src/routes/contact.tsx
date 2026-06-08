@@ -84,7 +84,7 @@ function Contact() {
           {[
             { icon: MapPin, title: "Visit", text: "WZ-14 B-74 Rajnagar Street No 7\nPalam, Dwarka, New Delhi" },
             { icon: Mail, title: "Email", text: "outtstrip@gmail.com" },
-            { icon: Phone, title: "Call", text: "+91 89293 14069" },
+            { icon: Phone, title: "Call", text: "Megha Bhatt:+91 89293 14069" },
           ].map((c) => (
             <motion.div key={c.title} whileHover={{ x: 6 }} className="p-6 rounded-3xl bg-gradient-card border border-border shadow-card flex gap-4">
               <div className="w-12 h-12 rounded-2xl bg-gradient-primary text-white flex items-center justify-center shrink-0">
