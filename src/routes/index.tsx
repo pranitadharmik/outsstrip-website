@@ -9,7 +9,7 @@ import { packages } from "@/data/packages";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Outsstrip — Turning Trips into Memories" },
+      { title: "Outsstrip" },
       { name: "description", content: "Discover handcrafted holiday packages, hotels, transport and custom travel planning with Outsstrip." },
       { property: "og:title", content: "Outsstrip — Turning Trips into Memories" },
       { property: "og:description", content: "Explore the world with comfort." },
