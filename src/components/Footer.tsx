@@ -119,7 +119,7 @@ export function Footer() {
             <li className="flex gap-2">
               <Phone className="w-4 h-4 shrink-0" />
               <a href="tel:+918929314069" className="hover:underline">
-               <p>Megha Bhat</p> : +91 89293 14069
+               <p>Megha Bhatt</p> : +91 89293 14069
               </a>
             </li>
           </ul>
